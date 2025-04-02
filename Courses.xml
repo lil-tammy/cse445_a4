@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>Distributed Software Development Chapter 4: Transformation from XML to HTML</title></head><body><h1>ASU CSE Course File Courses.xml</h1><table border="1"><tr style="background-color:yellow"><td><b>Title</b></td><td><b>Graduate</b></td><td><b>Undergrad</b></td><td><b>Room Number</b></td><td><b>Capacity</b></td><td><b>Instructor</b></td><td><b>Office Location</b></td><td><b>Phone Number</b></td></tr></table><h5>*Empty cells are used to indicate no information available</h5></body></html>
