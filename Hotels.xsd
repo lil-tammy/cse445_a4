@@ -6,7 +6,7 @@
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element type="xs:string" name="Name"/>
-							<xs:element type="xs:long" name="Phone" maxOccurs="unbounded" minOccurs="0"/>
+							<xs:element type="xs:string" name="Phone" maxOccurs="unbounded" minOccurs="0"/>
 							<xs:element name="Address">
 								<xs:complexType>
 									<xs:sequence>
@@ -14,7 +14,7 @@
 										<xs:element type="xs:string" name="Street"/>
 										<xs:element type="xs:string" name="City"/>
 										<xs:element type="xs:string" name="State"/>
-										<xs:element type="xs:string" name="Zip"/>
+										<xs:element type="xs:int" name="Zip"/>
 									</xs:sequence>
 									<xs:attribute type="xs:string" name="NearstAirport" use="required"/>
 								</xs:complexType>
