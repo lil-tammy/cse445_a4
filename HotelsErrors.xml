@@ -20,7 +20,7 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85253</Zip>
-		
+			</Address>
 	</Hotel>
 
 	<Hotel Rating="3.9">
@@ -46,7 +46,7 @@
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85083</Zip>
-		</Address>
+		
 	</Hotel>
 
 	<Hotel>
