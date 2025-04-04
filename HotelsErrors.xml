@@ -1,9 +1,9 @@
-<Hotel>
+<Hotels>
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearstAirport="Sky Harbor">
+		<Address>
 			<Number>11</Number>
 			<Street>E.7th St</Street>
 			<City>Tempe</City>
@@ -15,7 +15,7 @@
 	<Hotel Rating="4.1">
 		<Name>The McCormick Scottsdale</Name>
 		<Phone>8005351865</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>7421</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
@@ -133,4 +133,4 @@
 		</Address>
 	</Hotel>
 
-</Hotel>
+</Hotels>
