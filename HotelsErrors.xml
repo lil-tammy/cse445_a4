@@ -15,7 +15,7 @@
 	<Hotel Rating="4.1">
 		<Name>The McCormick Scottsdale</Name>
 		<Phone>8005351865</Phone>
-		<Address NearstAirport="Sky Harbor">
+		<Address>
 			<Number>7421</Number>
 			<Street>N Scottsdale Rd</Street>
 			<City>Scottsdale</City>
