@@ -40,7 +40,7 @@
 		<Name>Happy Valley House</Name>
 		<Phone>6024884094</Phone>
 		<Phone>6024884096</Phone>
-		<Address NearstAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor"></Address>
 			<Number>28250</Number>
 			<Street>N 32nd Ln</Street>
 			<City>Phoenix</City>
