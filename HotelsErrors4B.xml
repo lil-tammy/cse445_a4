@@ -1,0 +1,135 @@
+<Hotels>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.1">
+		<Name>The McCormick Scottsdale</Name>
+		<Phone>8005351865</Phone>
+		<Address NearstAirport="Sky Harbor" ></Address>
+			<Number>7421</Number>
+			<Street>N Scottsdale Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+	</Hotel>
+
+	<Hotel Rating="3.9">
+		<Name>Hilton Phoenix Resort at the Peak</Name>
+		<Phone>6029972626</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>7677</Number>
+			<Street>N 16th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85020</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Happy Valley House</Name>
+		<Phone>6024884094</Phone>
+		<Phone>6024884096</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>28250</Number>
+			<Street>N 32nd Ln</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85083</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>PVC at The Roundhouse Resort</Name>
+		<Phone>9283695100</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>5801</Number>
+			<Street>Buck Springs Rd</Street>
+			<City>Pinetop</City>
+			<State>AZ</State>
+			<Zip>85935</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.5">
+		<Name>Kohl's Ranch Lodge</Name>
+		<Phone>9284784211</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>202</Number>
+			<Street>South Kohl's Ranch Lodge Rd</Street>
+			<City>Payson</City>
+			<State>AZ</State>
+			<Zip>85541</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Hidden Rest Cabins</Name>
+		<Phone>9283686336</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>3448</Number>
+			<Street>W White Mountain Blvd</Street>
+			<City>Lakeside</City>
+			<State>AZ</State>
+			<Zip>85929</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.4">
+		<Name>Arizona Oasis RV Resort</Name>
+		<Phone>9282124178</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>50238</Number>
+			<Street>Ehrenberg Poston Hwy</Street>
+			<City>Ehrenberg</City>
+			<State>AZ</State>
+			<Zip>85334</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="2.3">
+		<Name>Sad Oasis Resort</Name>
+		<Phone>6028889274</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>17</Number>
+			<Street>E Bell Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85031</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.7">
+		<Name>Hyatt Place</Name>
+		<Phone>6028889274</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>1447</Number>
+			<Street>E University Rd</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="1.0">
+		<Name>Double Tree</Name>
+		<Phone>6234032241</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>4043</Number>
+			<Street>Roosevelt Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85021</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
