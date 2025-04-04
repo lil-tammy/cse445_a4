@@ -1,8 +1,8 @@
-<Hotel>
+<Hotels>
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
-		<Phone>480-968-8885</Phone>
-		<Phone>800-937-8461</Phone>
+		<Phone>4809688885</Phone>
+		<Phone>8009378461</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E.7th St</Street>
@@ -21,13 +21,12 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85253</Zip>
-		</Address>
+		
 	</Hotel>
 
 	<Hotel Rating="3.9">
 		<Name>Hilton Phoenix Resort at the Peak</Name>
 		<Phone>6029972626</Phone>
-		<Address NearstAirport="Sky Harbor">
 			<Number>7677</Number>
 			<Street>N 16th St</Street>
 			<City>Phoenix</City>
@@ -51,6 +50,7 @@
 
 	<Hotel>
 		<Name>PVC at The Roundhouse Resort</Name>
+		<Name>PVC at The Piped Resort</Name>
 		<Phone>9283695100</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>5801</Number>
@@ -63,7 +63,6 @@
 
 	<Hotel Rating="4.5">
 		<Name>Kohl's Ranch Lodge</Name>
-		<Phone>9284784211</Phone>
 		<Address NearstAirport="Sky Harbor">
 			<Number>202</Number>
 			<Street>South Kohl's Ranch Lodge Rd</Street>
